@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>bootstrap</title>
+    <link rel="stylesheet" href="./bootstrap-4.3.1-dist/css/bootstrap.css">
+    <link rel="stylesheet" href="./font-awesome-4.7.0/css/font-awesome.css">
+    <link rel="stylesheet" href="./css/style.css">
+    
+</head>
+<body>
+    <section id="menu"><!----menu block---->
+        <ul class="container">
+            <li>Top</li>
+            <li>Work</li>
+            <li>Portfolio</li>
+            <li>Contact</li>
+        </ul>
+    </section>
+
+    <section id="section2">
+        <div class="container">
+           <div class="row">
+               <div class="col-md-4">
+                <figure>
+                    <img src="./image/Wallpaper 1080 (89).jpg" alt="image">
+                </figure>
+               </div>
+               <div class="col-md-8">
+                   <h1> <span class="hi">Hi, i am</span>
+                         <span class="name">Sudeep</span>
+                        </h1>
+                   <p>hv hygyyyyyyy yffjfhhvhv ygygyg 
+                        hv hygyyyyyyy yffjfhhvhv 
+
+                        <span class="ygygyghv">ygygyghv</span>
+
+                          hygyyyyyyy yffjfhhvhv ygygyg hv hygyyyyyyy yffjfhhvhv ygygyg</p>
+                   <button class="btn btn-danger">Learn About What I Do</button>
+               </div>
+               
+           </div>
+           
+        </div>
+    </section>
+
+    <section id="section3">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>lorem ipsum dolor sit</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur, . Quos minus fugit vero pariatur cupiditate eaque rerum consectetur quam quasi!</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <i class="fa fa-comments-o" aria-hidden="true"></i>
+                   <h6>Lorem ipsum dollar</h6>
+                   <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque animi eius quae ipsam dolores veniam itaque! Qui, minima praesentium sit aperiam ex dolore quia quis, ab ipsam tempore, soluta error.</p> 
+                </div>
+                <div class="col-md-4">
+                    <i class="fa fa-camera-retro" aria-hidden="true"></i>
+                    <h6>Lorem ipsum dollar</h6>
+                   <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque animi eius quae ipsam dolores veniam itaque! Qui, minima praesentium sit aperiam ex dolore quia quis, ab ipsam tempore, soluta error.</p> 
+                </div>
+                <div class="col-md-4">
+                    <i class="fa fa-thumbs-up" aria-hidden="true"></i>
+                    <h6>Lorem ipsum dollar</h6>
+                   <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque animi eius quae ipsam dolores veniam itaque! Qui, minima praesentium sit aperiam ex dolore quia quis, ab ipsam tempore, soluta error.</p> 
+                </div>
+            </div>
+        </div>
+    </section>
+
+   
+
+
+    
+</body>
+</html>
